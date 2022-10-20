@@ -1,4 +1,4 @@
-package aud2;
+package aud2.matrix;
 
 public class Matrix {
 

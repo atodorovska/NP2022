@@ -1,4 +1,4 @@
-package aud2;
+package aud2.prefix;
 
 public class StringPrefix {
 
